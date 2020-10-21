@@ -1,0 +1,19 @@
+.jumbotron{
+	background-color: rgb(132, 180, 180)
+}
+.jumbotron h1{
+	color: white;
+
+}
+body{
+	blackground-color: whitesmoke;
+}
+img{
+	width: calc(100% - 20px);
+	height: 250px;
+}
+
+.NewsGrid{
+	margin: 10px;
+	border: 1px solid lightgray;
+}
